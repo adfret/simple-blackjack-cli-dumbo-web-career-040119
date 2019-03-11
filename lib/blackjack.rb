@@ -77,6 +77,4 @@ until number > 21
   number = display_card_total(number)
 end
 end_game(number)
-welcome
-end
-end
+end 
