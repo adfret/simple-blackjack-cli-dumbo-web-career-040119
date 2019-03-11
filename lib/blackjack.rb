@@ -72,7 +72,7 @@ welcome
 number = 0
 number = initial_round
 
-until number > 21 do
+until number > 21
   number = hit?(number)
   number = display_card_total(number)
 end
