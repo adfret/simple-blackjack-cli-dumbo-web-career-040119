@@ -57,7 +57,7 @@ elsif  answer == "s"
   number
 else
   invalid_command
-  prompt_userd
+  prompt_user
 end
 
 end
