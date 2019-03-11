@@ -69,7 +69,7 @@ end
 
 def runner
 welcome
-number = " "
+number = 0
 number = initial_round
 
 until number > 21
