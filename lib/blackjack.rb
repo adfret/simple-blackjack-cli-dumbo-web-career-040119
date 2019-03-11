@@ -74,7 +74,7 @@ number = initial_round
 
 until number > 21
   number = hit?(number)
-  number = display_card_total(number)
+  display_card_total(number)
 end
 end_game(number)
 end
